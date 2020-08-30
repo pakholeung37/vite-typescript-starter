@@ -1,6 +1,6 @@
 {
-  "name": "vue-next-starter",
-  "version": "0.0.0",
+  "name": "vite-typescript-starter",
+  "version": "0.0.1",
   "scripts": {
     "dev": "vite",
     "build": "vite build"
